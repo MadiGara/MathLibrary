@@ -21,7 +21,8 @@ Terminal commands:
 - make clean -> removes output files
 - ./A2 -> runs program
 
-# Other Contributors (to the main)
+# Other Contributors
+Co-wrote the main .c and .h files and the makefile.
 - Anna Rehman
 - Diya Parmar
 - Daniella Konert
